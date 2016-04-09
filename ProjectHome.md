@@ -1,0 +1,1 @@
+code to have my Arduino read temperature , humidity and barometric pressure and sent it through a dot net client on to the thingspeak website
